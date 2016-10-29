@@ -1,0 +1,3 @@
+A script to find and display free disk space. You will need to tweak the findstr to make it work with non-English Windows.
+
+USAGE: df drive-letter 
